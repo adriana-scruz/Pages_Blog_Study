@@ -1,7 +1,11 @@
 body {
-  width: 850px;
-  margin: auto;
+  margin: 0;
   font-family: "Open Sans", sans-serif;
+}
+
+main {
+  width: 890px;
+  margin: auto;
 }
 
 p {
@@ -27,4 +31,56 @@ a {
 .marcado {
   background-color: #f3d1ce;
   font-weight: 700;
+}
+
+h1 {
+  font-size: 56px;
+  line-height: 61.6px;
+  text-align: left;
+  letter-spacing: -3.08px;
+  color: #333333;
+  font-weight: 700;
+  margin: 0;
+}
+
+.subtitulo {
+  margin-top: 20px;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: -0.6px;
+  color: #555555;
+  font-weight: lighter;
+}
+
+.sub {
+  font-size: 16px;
+  line-height: 27.6px;
+  letter-spacing: -0.3px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.nav {
+  margin-top: 0;
+  margin-bottom: 24px;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: #c4170c;
+}
+
+#nav {
+  color: white;
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0%;
+  padding: 0%;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+  padding: 14px 16px;
 }
