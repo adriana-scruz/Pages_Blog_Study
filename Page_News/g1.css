@@ -1,0 +1,30 @@
+body {
+  width: 850px;
+  margin: auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+p {
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: -0.6px;
+  text-align: start;
+}
+
+h2 {
+  font-size: 32px;
+  line-height: 35.2px;
+  letter-spacing: -1.28px;
+  text-align: start;
+  color: #111111;
+}
+
+a {
+  color: #c4170c;
+  font-weight: 700;
+}
+
+.marcado {
+  background-color: #f3d1ce;
+  font-weight: 700;
+}
